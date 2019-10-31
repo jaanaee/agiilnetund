@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a60e297b-c4cb-4b5e-9c7b-aa210479569f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/PostFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/PostFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Post.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
@@ -117,7 +118,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/mm17/serverprogrer/blog" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
@@ -149,7 +150,9 @@
       <option name="presentableId" value="Default" />
       <updated>1570106975269</updated>
       <workItem from="1570106976496" duration="4384000" />
-      <workItem from="1572272599797" duration="4775000" />
+      <workItem from="1572272599797" duration="4981000" />
+      <workItem from="1572351931847" duration="336000" />
+      <workItem from="1572526914516" duration="10098000" />
     </task>
     <servers />
   </component>
