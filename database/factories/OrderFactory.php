@@ -2,11 +2,11 @@
 
 /** @var \Illuminate\Database\Eloquent\Factory $factory */
 
-use App\Comment;
+use App\Order;
 use Faker\Generator as Faker;
 
-$factory->define(Comment::class, function (Faker $faker) {
+$factory->define(Order::class, function (Faker $faker) {
     return [
-        'body' => $faker->paragraphs(6, true)
+        //
     ];
 });

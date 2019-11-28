@@ -2,10 +2,10 @@
 
 /** @var \Illuminate\Database\Eloquent\Factory $factory */
 
-use App\Commentator;
+use App\OrderItem;
 use Faker\Generator as Faker;
 
-$factory->define(Commentator::class, function (Faker $faker) {
+$factory->define(OrderItem::class, function (Faker $faker) {
     return [
         //
     ];
